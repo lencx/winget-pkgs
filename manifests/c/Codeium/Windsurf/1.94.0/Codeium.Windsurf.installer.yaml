@@ -150,17 +150,17 @@ FileExtensions:
 - yaml
 - yml
 - zsh
-ReleaseDate: 2025-01-24
+ReleaseDate: 2025-02-28
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://windsurf-stable.codeiumdata.com/win32-x64-user/stable/be4251dfb74e60e80fa973d61f3505da1ac9032e/WindsurfUserSetup-x64-1.2.2.exe
-  InstallerSha256: C28402201150DDD6CA8D369013DECFFC9939623FF78B6757C801922D50B9E46C
+  InstallerUrl: https://windsurf-stable.codeiumdata.com/win32-x64-user/stable/61d65579650f356494469f86c21fb953834289a0/WindsurfUserSetup-x64-1.3.10.exe
+  InstallerSha256: D515477CCE2B0872C3DFAFD256C91D1DC8DD66A3FB5115B45070BC0059C1CF89
   ProductCode: '{5A8B7D94-9B5F-4D1F-93FC-5609F7159349}_is1'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://windsurf-stable.codeiumdata.com/win32-x64/stable/be4251dfb74e60e80fa973d61f3505da1ac9032e/WindsurfSetup-x64-1.2.2.exe
-  InstallerSha256: 0FAEABA0D59D4D6815D889E605F7964E39F7D7A01DCEEEE66D9213F07F3AE7A8
+  InstallerUrl: https://windsurf-stable.codeiumdata.com/win32-x64/stable/61d65579650f356494469f86c21fb953834289a0/WindsurfSetup-x64-1.3.10.exe
+  InstallerSha256: AFCE3A109F73816CE3264362177E446683FD8725BA075781024C754CE2A92518
   ProductCode: '{A71B58E9-CEFB-4424-8A1D-A0E49CF18EBB}_is1'
   ElevationRequirement: elevatesSelf
 ManifestType: installer
