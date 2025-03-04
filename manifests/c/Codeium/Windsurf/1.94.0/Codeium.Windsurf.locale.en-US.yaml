@@ -26,17 +26,8 @@ Tags:
 - editor
 - programming
 ReleaseNotes: |-
-  Cascade Memories, Web Search and Docs
-
-  Improvements
-  - Cascade Web search now includes the website description and uses page rank to determine relevance
-  - Improvements to Cascade Auto-Generated Memories (Beta)
-
-  Fixes
-  - Fixed input lag in long Cascade conversations
-  - Increased precision when Cascade makes code edits
-  - Fixed issues around Cascade edits with .gitignore files
-  - Fixed Tab to Jump Quick Setting configuration
+  Patches
+  - Fixes crashes due to permissions errors on Ubuntu 24.04
 ReleaseNotesUrl: https://codeium.com/changelog
 PurchaseUrl: https://codeium.com/pricing
 Documentations:
