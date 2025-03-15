@@ -1,5 +1,5 @@
-# Automatically updated by the winget bot at 2025/Jan/20
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+# Automatically updated by the winget bot at 2025/Mar/10
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
 
 PackageIdentifier: Jagex.Runescape
 PackageVersion: 2.2.11
@@ -13,4 +13,4 @@ Installers:
   InstallerUrl: https://content.runescape.com/downloads/windows/RuneScape-Setup.exe
   InstallerSha256: DA361FB710A25E696D5B4119EBE46C56E3D6629EFBF945797956FEFE43A9D64C
 ManifestType: installer
-ManifestVersion: 1.5.0
+ManifestVersion: 1.10.0
